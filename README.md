@@ -6,10 +6,12 @@ Due to a mutation in a gene, there is some genetic variation developed in a gene
 
 
 #### Problem statement :
-> Classify the given genetic variations/mutations based on evidence from text-based clinical literature.
+> Classify the given genetic variations/mutations based on evidence from text-based clinical literature. In this problem, we need to find the mutation-type given the gene, variation and some text data from published research.
+
+
 
 #### Types of ML Problem :
-> Multiclass Classification Problem
+> Multi-class Classification Problem
 
 
 ### DATASET  OVERVIEW:
